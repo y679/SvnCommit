@@ -8,5 +8,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String str = "Git第一次上传文件1111111";
+        String a="";
     }
 }
